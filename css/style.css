@@ -1,0 +1,103 @@
+/*header styles*/
+.logo{
+	display: inline-block;
+}
+.navigation{
+	margin-left: 92px;
+	display: inline-block;
+}
+.nav-li{
+	margin-left: 27px;
+	display: inline-block;
+}
+.nav-image{
+	display: inline-block;
+	margin-left: 40px;
+}
+.header-wraper{
+	position: fixed;
+	top: 0;
+	left: 0;
+}
+/*section1*/
+.container-wraper{
+	width: 1160px;
+	display: inline-block;
+}
+.block1{
+	width: 360px;
+	display: inline-block;
+	margin-right: 40px;
+	position: relative;
+}
+.h2b{
+	position: absolute;
+	top: 28px;
+	left: 40px;
+	font-size: 16px;
+	color: #ffff;
+
+}
+.block2{
+	width: 360px;
+	display: inline-block;
+	margin-right: 40px;
+	position: relative;
+}
+.block3{
+	width: 360px;
+	display: inline-block;
+	position: relative;
+}
+.text1{
+	width: 280px;
+	margin: 0 auto;
+	padding-top: 40px;
+	font-size: 13px;
+	color: #A6ADB4;
+}
+/*section2*/
+.meore{
+	width: 1160px;
+}
+.left-block{
+	width: 760px;
+	position: relative;
+	display: inline-block;
+	vertical-align: top;
+	margin-right: 40px;
+	position: relative;
+}
+.right-block{
+	width: 360px;
+	display: inline-block;
+	vertical-align: top;
+	position: relative;
+}
+.image6{
+	margin-top: 102px;
+}
+.image7{
+	margin-top: 102px;
+}
+.image4{
+	margin-bottom: 40px;
+}
+.container-title{
+	margin-top: 58px;
+	margin-bottom: 40px;
+}
+.h3b{
+	position: absolute;
+	top: 394px;
+	right: 14px;
+	font-size: 16px;
+	color: #ffff;
+}
+.h4b{
+	position: absolute;
+	top: 18px;
+	left: 40px;
+	font-size: 16px;
+	color: #ffff;
+}
